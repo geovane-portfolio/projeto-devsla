@@ -165,3 +165,28 @@ footer .arrow {
     animation-duration: 2s;
     animation-iteration-count: infinite;
 }
+
+/* MEDIA QUERIES */
+@media (max-width:1200px) {
+    header .middle {
+        display: none;
+    }
+    header .rightside li {
+        display: none;
+    }
+    header .rightside li.menu {
+        display: block;
+        margin-right: 20px;
+    }
+}
+@media (max-width:600px) {
+    footer .buttons-area {
+        flex-direction: column;
+        align-items: center;
+    }
+    footer .buttons-area a {
+        margin: 10px 20px;
+        width: calc(100vw - 60px);
+    }
+}
+
