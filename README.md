@@ -4,11 +4,11 @@
 
   Link de acesso: https://geovane-portfolio.github.io/projeto-devsla/
 
-  Desktop
+  Desktop 
   <img src="assets/images/Screenshot_1.png"/>
 
-  Tablet
+  Tablet </br>
   <img src="assets/images/Screenshot_2.png"/>
 
-  Smarphone
+  Smarphone </br>
   <img src="assets/images/Screenshot_3.png"/>
